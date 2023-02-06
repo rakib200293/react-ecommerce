@@ -5,6 +5,7 @@ const SingleProduct = () => {
 };
 
 const Wrapper = styled.section`
+    min-height: calc(100vh - 100px);
     .container {
         padding: 9rem 0;
     }
